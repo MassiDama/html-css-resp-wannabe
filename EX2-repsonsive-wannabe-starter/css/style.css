@@ -129,10 +129,18 @@ img {
  ************************************************/
 
 /* versione tablet */
-
 @media all and (max-width: 768px) {
 
     .container {
         width: 100%;
     }
 }
+
+/* versione mobile phone */
+@media all and (max-width: 480px) {
+
+    .row {
+        display: block;
+    }
+}
+
