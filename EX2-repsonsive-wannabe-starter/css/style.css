@@ -153,13 +153,15 @@ img {
         margin-bottom: 100px;
     }
 
-    .col-left {
+    .why-us .col-left {
         width: 100%;
+        margin-bottom: 50px;
     }
     
     .why-us .col-right {
         width: 100%;
     }
-    
+
+
 }
 
