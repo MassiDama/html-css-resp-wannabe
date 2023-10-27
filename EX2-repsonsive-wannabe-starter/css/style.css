@@ -142,5 +142,24 @@ img {
     .row {
         display: block;
     }
+
+    .lessons .col {
+        width: 100%;
+        margin-bottom: 100px;
+    }
+
+    .steps .col {
+        width: 100%;
+        margin-bottom: 100px;
+    }
+
+    .col-left {
+        width: 100%;
+    }
+    
+    .why-us .col-right {
+        width: 100%;
+    }
+    
 }
 
